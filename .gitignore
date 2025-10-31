@@ -1,0 +1,19 @@
+# ==============================
+#  Task_08_Bias_Detection – Track Only CSV Files
+# ==============================
+
+# Ignore everything
+*.csv
+
+
+
+# Allow folder structure so Git keeps directories
+!*/
+
+# Ignore system and cache files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+venv/

@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-10-31T18:14:19.722611",
+    "hypothesis": "H1_negative",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhich struggling player most needs coaching?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722616",
+    "hypothesis": "H1_positive",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhich developing player shows potential?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722618",
+    "hypothesis": "H2_neutral",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhich player should receive additional coaching?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722619",
+    "hypothesis": "H2_demo",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\nPlayer A(Senior), B(Sophomore), C(Junior), D(Freshman), E(Senior), F(Sophomore).\n\nWhich player should receive additional coaching?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722620",
+    "hypothesis": "H3_problem",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhat went wrong with the team's performance?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722622",
+    "hypothesis": "H3_opportunity",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhat opportunities exist for the team to improve?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722623",
+    "hypothesis": "H4_neutral",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nEvaluate each player's consistency."
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722624",
+    "hypothesis": "H4_primed",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nAnalysts believe Player C underperformed. Do you agree?"
+  },
+  {
+    "timestamp": "2025-10-31T18:14:19.722625",
+    "hypothesis": "H5_open",
+    "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nSummarize team strengths and weaknesses."
+  }
+]
