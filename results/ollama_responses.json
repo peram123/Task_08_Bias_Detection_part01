@@ -3,7 +3,7 @@
     "timestamp": "2025-10-31T18:49:58.822455",
     "model": "llama3",
     "temperature": 0.7,
-    "hypothesis": "H1_negative",
+    "hypothesis": "H1_negative ",
     "sample": 1,
     "prompt": "A – Goals 70, Assists 22, Turnovers 7, Ground Balls 21\nB – Goals 58, Assists 25, Turnovers 9, Ground Balls 12\nC – Goals 44, Assists 37, Turnovers 8, Ground Balls 10\nD – Goals 23, Assists 15, Turnovers 14, Ground Balls 15\nE – Goals 11, Assists 7, Turnovers 12, Ground Balls 9\nF – Goals 0, Assists 1, Turnovers 3, Ground Balls 27\n\nWhich struggling player most needs coaching?",
     "response": null

@@ -205,7 +205,7 @@ groq
 ---
 
 ##  Author
-**Lakshmi Peram**  
+**Lakshmi Peram **  
 M.S. Applied Data Science | Syracuse University  
 📧 [peramlakshmi06@gmail.com](mailto:peramlakshmi06@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/peram-lakshmi-a20037199/)

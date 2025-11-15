@@ -11,7 +11,7 @@ numpy==1.26.4
 textblob==0.17.1
 nltk==3.9.1
 
-# Visualization
+# Visualizations
 matplotlib==3.9.2
 seaborn==0.13.2
 
