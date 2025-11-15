@@ -43,7 +43,7 @@ print(summary)
 
 import matplotlib.pyplot as plt
 
-# Visualization
+#Sentiment Visualization
 plt.figure(figsize=(10,6))
 plt.bar(summary["hypothesis"], summary["sentiment"], color="skyblue")
 plt.title("Average Sentiment per Hypothesis Condition")

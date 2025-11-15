@@ -1,5 +1,6 @@
 import os, json, datetime
 
+#players
 players = [
     {"Player": "A", "Goals": 70, "Assists": 22, "Turnovers": 7, "GroundBalls": 21},
     {"Player": "B", "Goals": 58, "Assists": 25, "Turnovers": 9, "GroundBalls": 12},

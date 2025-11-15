@@ -2,7 +2,7 @@ import pandas as pd
 import json, re, os
 from difflib import get_close_matches
 
-# === CONFIG ===
+# === CONFIG. ===
 DATA_FILE = "Dataset/all_years_combined_player_stats.csv"   # <-- path to your player dataset
 RESPONSES_FILE = "results/groq_responses.json"
 OUTFILE = "analysis/validation_report.csv"

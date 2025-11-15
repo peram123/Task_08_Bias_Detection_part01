@@ -1,7 +1,7 @@
 import os, json, datetime
 from groq import Groq
 
-# ===== CONFIG =====
+# ===== CONFIG. =====
 MODEL = "llama-3.1-8b-instant"
 NUM_SAMPLES = 2
 TEMPERATURE = 0.7
